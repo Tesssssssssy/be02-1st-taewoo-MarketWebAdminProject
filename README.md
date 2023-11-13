@@ -45,30 +45,15 @@ This repository is produced for practicing Git and Github in Hanwha system sw be
 <br/>
 
 ## :full_moon: 이번 주 DB 설계 팀 프로젝트 예상 주제 
-#### (원하는 주제 x, 최대한 단순한 구조가 될 수 있는 db로 생각한 주제)
 <br/>
 <span style='background-color: #fff5b1'>
-버스 좌석 예약 시스템 (Not 결제, Only 예약) </span> <br/>
+(미정) 버스 좌석 예약 시스템 <br/>
 
-<span style="font-size: 18px; color: white">
-
-- 10대의 버스 有. (더 이상 늘거나 줄지 않는다는 가정)  
-
-- 각 버스 당 20개의 좌석 有.
-- 회원 가입한 유저만 버스 예약 가능.
-- 모든 버스엔 오로지 1명의 버스 기사 배정.
-- 1명의 유저가 1개의 버스 좌석을 예약하면 해당 좌석 예약 불가.
-- 1명의 유저가 1개의 버스 좌석을 예약하면 다른 좌석 예약 불가.  
-- .........
 </span>
 <br/>
 <br/>
 
 #### :small_red_triangle_down: ERD 및 DB Schema
-<img width="300" alt="image" src="버스 예약 시스템.drawio.png">
-<br/>
-<br/>
-
 <img width="600" alt="image" src="BusReservationSystemDemo.png">
 <br/>
 <br/>
