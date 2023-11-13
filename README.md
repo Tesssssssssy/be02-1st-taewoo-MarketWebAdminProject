@@ -74,8 +74,8 @@ This repository is produced for practicing Git and Github in Hanwha system sw be
 
 
 <span style="font-size: 18px; color: white">
-지난 설계 실습 때 일부 진행한 모습입니다. 
+지난 설계 실습 때 일부 진행한, 완성되지 않은 모습입니다. 
 
-함께할 팀원들의 의견에 따라 주제는 변경될 수 있고  
+함께할 팀원들의 의견에 따라 주제는 얼마든지 변경될 수 있고  
 이 주제로 진행된다면 추후에 팀원들의 의견을 반영해 테이블 구조, 관계, 기능 등이 변경될 예정입니다.
 </span>
