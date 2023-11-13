@@ -33,7 +33,7 @@ This repository is produced for practicing Git and Github in Hanwha system sw be
 <span style="font-size: 18px; color: white">
 저는 학부 때 몇몇 프로젝트 경험이 있고 <br/>
 특히 올 한 해 동안 기업 연계 프로젝트에서 백엔드 담당으로 </span> <br/>
-<span style="font-size: 18px; color: red"> DB Schema 및 ERD 설계</span> <span style="font-size: 18px; color: white">, 이에 따른 </span> <span style="font-size: 18px; color: red">API 개발</span> <span style="font-size: 18px; color: white">경험을 했습니다. <br/>
+<span style='background-color: #fff5b1'> DB Schema 및 ERD 설계</span> <span style="font-size: 18px; color: white">, 이에 따른 </span> <span style='background-color: #fff5b1'>API 개발</span> <span style="font-size: 18px; color: white">경험을 했습니다. <br/>
 함께 팀원이 된다면 큰 도움이 될 수 있도록 열심히 하겠습니다. <br/>
 <br/>
 잘 부탁드립니다!
@@ -45,7 +45,7 @@ This repository is produced for practicing Git and Github in Hanwha system sw be
 
 ## :full_moon: 이번 주 DB 설계 팀 프로젝트 예상 주제
 <br/>
-<span style="font-size: 18px; color: orange">
+<span style='background-color: #fff5b1'>
 버스 좌석 예약 시스템 (Not 결제, Only 예약) </span> <br/>
 
 <span style="font-size: 18px; color: white">
