@@ -54,7 +54,7 @@ This repository is produced for practicing Git and Github in Hanwha system sw be
 
 - 각 버스 당 20개의 좌석 有.
 - 회원 가입한 유저만 버스 예약 가능.
-- 모든 버스**엔 오로지 1명의 버스 기사 배정.
+- 모든 버스엔 오로지 1명의 버스 기사 배정.
 - 1명의 유저가 1개의 버스 좌석을 예약하면 해당 좌석 예약 불가.
 - 1명의 유저가 1개의 버스 좌석을 예약하면 다른 좌석 예약 불가.  
 - .........
