@@ -17,6 +17,7 @@ This repository is produced for practicing Git and Github in Hanwha system sw be
 <img width="553" alt="image" src="profile.png">
 
 <span style="font-size: 20px; color: black">[velog](https://velog.io/@ewoo97)</span>
+<span style="font-size: 20px; color: black">[github](https://github.com/Tesssssssssy)</span>
 <br/>
 <br/>
 <br/>
