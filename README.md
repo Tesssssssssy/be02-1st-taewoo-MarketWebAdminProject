@@ -44,7 +44,8 @@ This repository is produced for practicing Git and Github in Hanwha system sw be
 <br/>
 <br/>
 
-## :full_moon: 이번 주 DB 설계 팀 프로젝트 예상 주제 (원하는 주제 x, 최대한 단순한 구조가 될 수 있는 db로 생각한 주제)
+## :full_moon: 이번 주 DB 설계 팀 프로젝트 예상 주제 
+#### (원하는 주제 x, 최대한 단순한 구조가 될 수 있는 db로 생각한 주제)
 <br/>
 <span style='background-color: #fff5b1'>
 버스 좌석 예약 시스템 (Not 결제, Only 예약) </span> <br/>
